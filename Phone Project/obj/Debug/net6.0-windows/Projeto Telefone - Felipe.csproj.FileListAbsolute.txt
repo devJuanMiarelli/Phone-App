@@ -1,0 +1,20 @@
+E:\Projeto Telefone - Felipe\bin\Debug\net6.0-windows\Projeto Telefone - Felipe.exe
+E:\Projeto Telefone - Felipe\bin\Debug\net6.0-windows\Projeto Telefone - Felipe.deps.json
+E:\Projeto Telefone - Felipe\bin\Debug\net6.0-windows\Projeto Telefone - Felipe.runtimeconfig.json
+E:\Projeto Telefone - Felipe\bin\Debug\net6.0-windows\Projeto Telefone - Felipe.dll
+E:\Projeto Telefone - Felipe\bin\Debug\net6.0-windows\Projeto Telefone - Felipe.pdb
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.csproj.AssemblyReference.cache
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto_Telefone___Felipe.Form1.resources
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto_Telefone___Felipe.Form2.resources
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto_Telefone___Felipe.Form3.resources
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto_Telefone___Felipe.Form4.resources
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.csproj.GenerateResource.cache
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.AssemblyInfoInputs.cache
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.AssemblyInfo.cs
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.csproj.CoreCompileInputs.cache
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.dll
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\refint\Projeto Telefone - Felipe.dll
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.pdb
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\Projeto Telefone - Felipe.genruntimeconfig.cache
+E:\Projeto Telefone - Felipe\obj\Debug\net6.0-windows\ref\Projeto Telefone - Felipe.dll
